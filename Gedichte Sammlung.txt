@@ -1,4 +1,0 @@
-a cat
-a tree 
-a dog
-died
